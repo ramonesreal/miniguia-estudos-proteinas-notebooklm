@@ -1,7 +1,7 @@
 # 🧬 Projeto NotebookLM: Caderno Temático sobre Proteínas
 
 ## 📋 Descrição do Projeto
-Este repositório contém a documentação e os resultados do desenvolvimento de um caderno temático de estudos utilizando o **NotebookLM** (Google). O projeto foi desenvolvido como parte do **Desafio de Projeto "Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM"** da plataforma **DIO (Digital Innovation One)**, tendo como foco o estudo aprofundado de **Proteínas** (estrutura, funções e importância biológica).
+Este repositório contém a documentação e os resultados do desenvolvimento de um caderno temático de estudos utilizando o **NotebookLM** (Google). O projeto foi desenvolvido como parte do **Desafio de Projeto "Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM"** da plataforma **DIO (Digital Innovation One)**, tendo como tema o estudo aprofundado de **Proteínas** (estrutura, funções e importância biológica).
 
 ---
 
@@ -180,6 +180,8 @@ Registro do processo de iteração, erros e acertos para extrair as melhores res
   > | **Patologia de Agregação** | **α-sinucleína**, Proteínas Priônicas [26, 40] | Erros no enovelamento levam à formação de **fibrilas amiloides** insolúveis, bases de doenças como **Alzheimer e Parkinson** [40] (videoaula ~41:00). |
   >
   > Este guia enfatiza que a **forma dita a função**; qualquer alteração ambiental ou genética que comprometa a arquitetura tridimensional da proteína resulta em perda de homeostase e patologia [52, 53].*
+
+![Painel de Fontes do NotebookLM](assets/painel.png)
 
 ### 🛠️ Cicatrizes do Processo (Análise Crítica do Resultado)
 * **Alinhamento com os Objetivos:** O prompt otimizado transformou a saída da IA. O tom superficial foi substituído por conceitos de termodinâmica (ΔG < 0) e geometria molecular (rigidez planar da ligação peptídica), atendendo aos objetivos 1, 2 e 3.
