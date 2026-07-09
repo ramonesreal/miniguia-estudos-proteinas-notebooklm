@@ -1,5 +1,7 @@
 # 🧬 Projeto NotebookLM: Caderno Temático sobre Proteínas
 
+> 🌐 **Leia isto em outro idioma:** [English](README.md)
+
 ## 📋 Descrição do Projeto
 Este repositório contém a documentação e os resultados do desenvolvimento de um caderno temático de estudos utilizando o **NotebookLM** (Google). O projeto foi desenvolvido como parte do **Desafio de Projeto "Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM"** da plataforma **DIO (Digital Innovation One)**, tendo como tema o estudo aprofundado de **Proteínas** (estrutura, funções e importância biológica).
 
